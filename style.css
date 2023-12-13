@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.primary-beaver {
+    color: #9e7f66;
+}
+.primary-codGray {
+    color: #111111;
+}
+.secondary-mirage {
+    color: #17192b;
+}
+.secondary-ebonyClay {
+    color: #242b37;
+}
+.secondary-shuttleGray {
+    color: #5c6779;
+}
