@@ -18,3 +18,6 @@
 .secondary-shuttleGray {
     color: #5c6779;
 }
+.hero-mobile {
+    background-image: url(public\images\homepage\hero-bg-mobile@2x.jpg);
+}
