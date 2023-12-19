@@ -3,21 +3,11 @@
 @tailwind utilities;
 
 
-.primary-beaver {
-    color: #9e7f66;
-}
-.primary-codGray {
-    color: #111111;
-}
-.secondary-mirage {
-    color: #17192b;
-}
-.secondary-ebonyClay {
-    color: #242b37;
-}
-.secondary-shuttleGray {
-    color: #5c6779;
-}
-.hero-mobile {
-    background-image: url(public\images\homepage\hero-bg-mobile@2x.jpg);
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@300&display=swap');
+
+/* font-family: 'League Spartan', sans-serif; */
+
+* {
+    padding: 0;
+    margin: 0;
 }
