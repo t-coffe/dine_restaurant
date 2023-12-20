@@ -12,6 +12,7 @@ export default {
         "mirage":"#17192b",
         "ebonyClay":"#242b37",
         "shuttleGray":"#5c6779",
+        "4C":"#4c4c4c",
       },
       boxShadow: {
         '3xl': '0 35px 60px -15px rgba(0, 0, 0, 0.3)',
